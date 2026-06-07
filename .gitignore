@@ -3,6 +3,12 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
+!data.sql
+.idea/
+*.iml
+dump-*.sql
+
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
